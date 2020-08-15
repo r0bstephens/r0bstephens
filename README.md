@@ -8,6 +8,9 @@
 - 🥅 2020 Goals: Become a well-rounded penetration tester & climb the ranks on [HackTheBox](https://www.hackthebox.eu/home/users/profile/200174)
 - ⚡ Fun fact: I love to produce and play all genres of music
 
+### Spotify Playing 🎧
+[<img src="https://novatorem.r0bstephens.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11143882016)
+
 ### Connect with me:
 
 [<img align="left" alt="r0bstephens | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -36,13 +39,6 @@
 
 <br />
 <br />
-
----
-
-### 📊 This week I spent my time on
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 ---
 
