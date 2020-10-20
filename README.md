@@ -48,13 +48,13 @@
 
 
 ## ✏️ Medium blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
 <a href="https://medium.com/@robert.peter.stephens" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@robert.peter.stephens" height="30" width="30" /></a>
 </p>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@robert.peter.stephens/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@robert.peter.stephens/0" alt="Recent Article 0">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chrisgeth/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@robert.peter.stephens/0" alt="Recent Article 0">
 
 ---
 
