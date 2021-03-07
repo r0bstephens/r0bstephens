@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I'm a sound engineer responsible for post-production and mixing of some of the UK's biggest artists
 
 ## 🎧 Spotify Playing 
-[<img src="https://novatorem.r0bstephens.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11143882016)
+[<img src="https://novatorem.r0bstephens.vercel.app/api/spotify-playing" alt="r0bstpehens Spotify Playing" width="350" />](https://open.spotify.com/user/11143882016)
 
 ---
 
