@@ -5,8 +5,8 @@
 - 🔭 Modifying 'Shikata ga nai' to encode for better AV evasion
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Become a well-rounded penetration tester & climb the ranks on [HackTheBox](https://www.hackthebox.eu/home/users/profile/200174)
-- ⚡ Fun fact: I love to produce and play all genres of music
+- 🥅 2021 Goals: Become a well-rounded penetration tester & climb the ranks on [HackTheBox](https://www.hackthebox.eu/home/users/profile/200174)
+- ⚡ Fun fact: I'm a sound engineer responsible for post-production and mixing of some of the UK's biggest artists
 
 ## 🎧 Spotify Playing 
 [<img src="https://novatorem.r0bstephens.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11143882016)
